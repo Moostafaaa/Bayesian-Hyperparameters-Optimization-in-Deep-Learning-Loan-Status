@@ -49,6 +49,9 @@ $$P(\theta \mid \mathcal{D}) \;\propto\; P(\mathcal{D} \mid \theta) \;\times\; P
 
 $$\underbrace{P(\theta \mid \mathcal{D})}_{\text{Posterior}} \;\propto\; \underbrace{P(\text{AUC} \mid \theta)}_{\text{Likelihood}} \;\times\; \underbrace{P(\theta)}_{\text{Prior}}$$
 
+<img width="1800" height="1642" alt="image" src="https://github.com/user-attachments/assets/21bc2903-8c65-4fc0-8dfa-7b9174ba299f" />
+
+
 Each component maps directly to the code:
 
 ---
